@@ -2,11 +2,11 @@
 
 Using the create-react-app do the following tasks (install any library you need):
 
-Do a GET request using 'https://jsonplaceholder.typicode.com/posts' save the data.
-Display a un-ordered list of titles from the data.
-Create an input field for filtering by title.
-
-Don't worry if you can't complete the task within half an hour, we just want to see your appoach and how you tackle the problem.
+Do a GET request using 'https://jsonplaceholder.typicode.com/posts' save the data.<br>
+Display a un-ordered list of titles from the data.<br>
+Create an input field for filtering by title.<br>
+<br>
+Don't worry if you can't complete the task within half an hour, we just want to see your appoach and how you tackle the problem.<br>
 
 
 
